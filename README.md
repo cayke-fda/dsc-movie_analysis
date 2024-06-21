@@ -406,7 +406,7 @@ For lack of data we recommend the director Damien Chazelle, as his Music movie s
 
 
     
-![png](images/release_mediumrisk.png.png)
+![png](images/release_mediumrisk.png)
     
 
 
