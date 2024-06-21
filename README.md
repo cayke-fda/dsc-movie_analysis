@@ -138,7 +138,7 @@ Knowing which genre is more profitable, we need to choose directors who succed i
 
 
     
-![png](images/release_lowrisk.png.png)
+![png](images/release_lowrisk.png)
     
 
 
